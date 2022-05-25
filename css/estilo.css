@@ -1,0 +1,188 @@
+* {
+    margin:0;
+    padding:0 ;
+    ;
+}
+#container{
+    width: 920px;
+    height:762px;
+    margin: 0 auto;
+    font-family: Arial,
+    
+    
+
+   
+   
+
+}
+#banner{
+    width:1350px;
+    height:100px;
+    margin-left:-217px;
+    background:black;
+   
+}
+
+#contato{
+    width:1350px;
+    height:15%;
+    margin-left:-217px ;
+    margin-top:0px ;
+    background:rgb(2, 68, 2);
+
+}
+
+#Div1{
+    width:1350px;
+    height:50%;
+    margin-left:-217px ;
+    margin-top:0px ;
+    background: blue;
+
+}
+
+#Div2{
+    width:1350px;
+    height:50%;
+    margin-left:-217px ;
+    margin-top:0px ;
+    background:black;
+
+}
+
+#Div3{
+    width:1350px;
+    height:50%;
+    margin-left:-217px ;
+    margin-top:0px ;
+    background:blue;
+
+}
+
+#rodape{
+    width:1350px;
+    height:10%;
+    margin-left:-217px ;
+    margin-top:0px ;
+    background:black;
+    text-align: center;
+    font-size:15px;
+    
+
+}
+
+
+
+
+#menu{
+    margin-top:-55px;
+    margin-right:1250px ;
+    width:80px;
+ 
+}
+
+#empresa{
+  margin-top -2px;
+  text-align:center ;
+  font-size:50px;
+}
+
+#loguin{
+    margin-top:-110px ;
+    margin-left:1170px;
+}
+
+#sacola{
+    margin-top:-165px;
+    margin-left:1255px ;
+}
+
+#D1IM1{
+    width:210px;
+    height:280px;
+}
+
+#D1IM2{
+    width:210px;
+    height:280px;
+}
+
+#D1IM3{
+    width:210px;
+    height:280px;
+}
+
+#D2IM1{
+    width:195px;
+    height:210px;
+    margin-top:30px;
+}
+
+#D2IM2{
+
+    width:195px;
+    height:210px;
+    margin-top:30px;
+
+}
+
+#D2IM3{
+    width:195px;
+    height:210px;
+    margin-top:30px;
+}
+
+
+#D3IM1{
+    width:195px;
+    height:210px;
+    margin-top:30px;
+
+}
+
+#D3IM2{
+    width:195px;
+    height:210px;
+    margin-top:30px;
+
+}
+
+#D3IM3{
+    width:195px;
+    height:230px;
+    margin-top:30px;
+
+}
+
+
+#bt1{
+    margin-bottom:-10px;
+}
+
+#bt2{
+    margin-bottom:-10px;
+}
+#bt3{
+    margin-bottom:-20px;
+}
+
+#fc{
+    width:20px;
+    height:20px;
+    margin-left:5px;
+    margin-top:-20px;
+}
+
+#yo{
+    width:20px;
+    height:20px;
+    margin-left:55px;
+    margin-top:-20px;
+}
+
+#inst{
+    width:20px;
+    height:20px;
+    margin-left:60px;
+    margin-top:-20px;
+}
